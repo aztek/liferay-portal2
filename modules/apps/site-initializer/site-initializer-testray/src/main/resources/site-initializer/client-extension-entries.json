@@ -1,0 +1,20 @@
+[
+	{
+		"clientExtensionEntryKey": "TESTRAY",
+		"cssURLs": [
+			"[$DOCUMENT_URL:/site-initializer/documents/company/remote-app/site-initializer-testray/main.css$]"
+		],
+		"elementURLs": [
+			"[$DOCUMENT_URL:/site-initializer/documents/company/remote-app/site-initializer-testray/2.js$]",
+			"[$DOCUMENT_URL:/site-initializer/documents/company/remote-app/site-initializer-testray/main.js$]",
+			"[$DOCUMENT_URL:/site-initializer/documents/company/remote-app/site-initializer-testray/runtime-main.js$]"
+		],
+		"externalReferenceCode": "TESTRAY001",
+		"htmlElementName": "liferay-remote-app-testray",
+		"name_i18n": {
+			"en_US": "Testray"
+		},
+		"portletCategoryName": "category.remote-apps",
+		"widgetName": "com_liferay_client_extension_web_internal_portlet_ClientExtensionEntryPortlet_[$CLIENT_EXTENSION_ENTRY_ID:TESTRAY$]"
+	}
+]

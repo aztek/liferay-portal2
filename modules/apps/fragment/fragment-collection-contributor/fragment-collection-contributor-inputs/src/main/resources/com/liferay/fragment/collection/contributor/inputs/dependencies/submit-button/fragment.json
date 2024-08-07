@@ -1,0 +1,7 @@
+{
+	"cacheable": true,
+	"fragmentEntryKey": "submit-button",
+	"icon": "button",
+	"name": "submit-button",
+	"type": "component"
+}

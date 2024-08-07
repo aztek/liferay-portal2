@@ -1,0 +1,12 @@
+{
+	"cacheable": true,
+	"fragmentEntryKey": "picklist",
+	"icon": "select-from-list",
+	"name": "picklist",
+	"type": "input",
+	"typeOptions": {
+		"fieldTypes": [
+			"select"
+		]
+	}
+}

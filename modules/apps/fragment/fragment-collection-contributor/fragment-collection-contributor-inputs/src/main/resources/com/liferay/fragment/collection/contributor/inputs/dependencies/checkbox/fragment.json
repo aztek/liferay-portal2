@@ -1,0 +1,12 @@
+{
+	"cacheable": true,
+	"fragmentEntryKey": "checkbox",
+	"icon": "check-square",
+	"name": "checkbox",
+	"type": "input",
+	"typeOptions": {
+		"fieldTypes": [
+			"boolean"
+		]
+	}
+}
