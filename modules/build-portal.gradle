@@ -16,6 +16,7 @@ archivesBaseName = "com.liferay." + name.replace('-' as char, '.' as char)
 group = "com.liferay.portal"
 version = bndProperties.getProperty("Bundle-Version")
 
+
 classes {
 	dependsOn = []
 }
